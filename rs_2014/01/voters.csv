@@ -1,0 +1,481 @@
+id,name,result,wpca:d1,wpca:d2,color,r,opacity,party
+mp_AdrianaAnastasov,"Anastasov, Adriana (SNS)",1,1.237935265,-0.058597316,blue,0.05,0.7,SNS
+mp_AleksandarDrPeranovic,"Peranovic, Aleksandar (SNS)",1,1.236139419,-0.053659347,blue,0.05,0.7,SNS
+mp_AleksandarDrRadojevic,"Radojevic, Aleksandar (Non-affiliated)",1,1.083665377,0.001921206,grey,0.05,0.7,Non-affiliated
+mp_AleksandarChotric,"Cotric, Aleksandar (SPO)",1,0.693269667,0.26996857,darkkhakki,0.05,0.7,SPO
+mp_AleksandarJovichic,"Jovicic, Aleksandar (SNS)",1,0.892176579,0.260447002,blue,0.05,0.7,SNS
+mp_AleksandarJugovic,"Jugovic, Aleksandar (SPO)",1,0.644813689,0.029510365,darkkhakki,0.05,0.7,SPO
+mp_AleksandarMarkovic,"Markovic, Aleksandar (SNS)",1,1.241560922,-0.026409995,blue,0.05,0.7,SNS
+mp_AleksandarMartinovic,"Martinovic, Aleksandar (SNS)",1,1.173727964,-0.035471803,blue,0.05,0.7,SNS
+mp_AleksandarPajovic,"Pajovic, Aleksandar (SNS)",1,0.665251137,-0.582615831,blue,0.05,0.7,SNS
+mp_AleksandarSenic,"Senic, Aleksandar (SDS)",1,-10.05424403,-0.763646398,cyan,0.05,0.7,SDS
+mp_AleksandraDjurovic,"Djurovic, Aleksandra (SNS)",1,0.298591031,-0.508519734,blue,0.05,0.7,SNS
+mp_AleksandraDrTomic,"Tomic, Aleksandra (SNS)",1,1.169992198,0.017775541,blue,0.05,0.7,SNS
+mp_AleksandraMaletic,"Maletic, Aleksandra (SNS)",1,1.143072574,0.017318862,blue,0.05,0.7,SNS
+mp_AleksandraMrJerkov,"Jerkov, Aleksandra (DS)",1,-2.754180263,1.27797889,gold,0.05,0.7,DS
+mp_AnaFilipovic,"Filipovic, Ana (SNS)",1,0.156053524,-0.075585478,blue,0.05,0.7,SNS
+mp_AnnamáriaVicsekAnamarijaVichek,"Vicek, Anamarija (SVM)",1,0.242771138,-0.588675221,green,0.05,0.7,SVM
+mp_ÁrpádFremondArpadFremond,"Fremond, Árpád (SVM)",1,0.124057405,-0.85097628,green,0.05,0.7,SVM
+mp_BálintPásztorBalintPastor,"Pásztor, Bálint (SVM)",1,0.568656912,-0.533450918,green,0.05,0.7,SVM
+mp_BiljanaHasanovicKorac,"Hasanovic Korac, Biljana (Non-affiliated)",1,-8.698088395,0.770761503,grey,0.05,0.7,Non-affiliated
+mp_BiljanaIlicStoshic,"Ilic Stosic, Biljana (SNS)",1,0.881334671,0.07686621,blue,0.05,0.7,SNS
+mp_BiljanaPanticPilja,"Pantic Pilja, Biljana (SNS)",1,1.05152114,-0.235595877,blue,0.05,0.7,SNS
+mp_BiljanaSavovic,"Savovic, Biljana (SNS)",1,1.257542327,-0.075997125,blue,0.05,0.7,SNS
+mp_BlagojeDrBradic,"Bradic, Blagoje (ZZS)",1,-8.013607433,2.512211904,darkgrey,0.05,0.7,ZZS
+mp_BobanDrBirmanchevic,"Birmancevic, Boban (SNS)",1,0.442208225,-0.368333665,blue,0.05,0.7,SNS
+mp_BojanZiric,"Ziric, Bojan (NSN)",1,0.665488993,0.280122935,darkgrey,0.05,0.7,NSN
+mp_BorisavKovachevic,"Kovacevic, Borisav (PUPS)",1,0.547092293,-0.44140605,darkred,0.05,0.7,PUPS
+mp_BorislavStefanovic,"Stefanovic, Borislav (DS)",1,-4.880167447,4.56197116,gold,0.05,0.7,DS
+mp_BranislavDrBlazhic,"Blazic, Branislav (SNS)",1,0.879971122,0.039649602,blue,0.05,0.7,SNS
+mp_BrankaBoshnjak,"Bosnjak, Branka (SDPS)",1,1.16010147,0.024278555,orange,0.05,0.7,SDPS
+mp_BrankaJankovic,"Jankovic, Branka (SNS)",1,-0.228502253,-0.010277891,blue,0.05,0.7,SNS
+mp_BrankaKaravidic,"Karavidic, Branka (Non-affiliated)",1,-9.735227525,0.500200134,grey,0.05,0.7,Non-affiliated
+mp_BrankoProfDrDjurovic,"Djurovic, Branko (SDPS)",1,0.852588353,0.172029987,orange,0.05,0.7,SDPS
+mp_BrankoRuzhic,"Ruzic, Branko (SPS)",1,-0.057344919,-0.524745498,red,0.05,0.7,SPS
+mp_BratimirVasiljevic,"Vasiljevic, Bratimir (SNS)",1,0.941799221,0.192916934,blue,0.05,0.7,SNS
+mp_DaliborRadichevic,"Radicevic, Dalibor (SNS)",1,1.257542327,-0.075997125,blue,0.05,0.7,SNS
+mp_DarkoDrLaketic,"Laketic, Darko (SNS)",1,0.739037268,0.38623296,blue,0.05,0.7,SNS
+mp_DejanAndrejevic,"Andrejevic, Dejan (SNS)",1,0.988396734,0.058126617,blue,0.05,0.7,SNS
+mp_DejanDrNektarijevic,"Nektarijevic, Dejan (SNS)",1,0.645776329,0.189622414,blue,0.05,0.7,SNS
+mp_DejanKovachevic,"Kovacevic, Dejan (SNS)",1,1.13713461,-0.071394134,blue,0.05,0.7,SNS
+mp_DejanMrChapo,"Capo, Dejan (LSV)",1,-5.49281404,2.044053085,khakki,0.05,0.7,LSV
+mp_DejanMrRadenkovic,"Radenkovic, Dejan (SPS)",1,-1.640057168,-1.329970976,red,0.05,0.7,SPS
+mp_DejanNikolic,"Nikolic, Dejan (DS)",1,-2.595455877,2.453239351,gold,0.05,0.7,DS
+mp_DijanaDrVukomanovic,"Vukomanovic, Dijana (SPS)",1,1.053204497,0.042869908,red,0.05,0.7,SPS
+mp_DjorgjeChabarkapa,"Cabarkapa, Djordje (SPS)",1,0.426047088,-0.342559838,red,0.05,0.7,SPS
+mp_DjorgjeKosanic,"Kosanic, Djordje (JS)",1,1.005739285,0.057680248,darkviolet,0.05,0.7,JS
+mp_DjorgjeMilicevic,"Milicevic, Djordje (SPS)",1,1.123220531,-0.235888263,red,0.05,0.7,SPS
+mp_DjorgjeStojshic,"Stojsic, Djordje (LSV)",1,-1.79064048,1.227456866,khakki,0.05,0.7,LSV
+mp_DraganaDrBarishic,"Barisic, Dragana (SNS)",1,1.239388821,-0.056158436,blue,0.05,0.7,SNS
+mp_DraganAleksic,"Aleksic, Dragan (SNS)",1,1.257542327,-0.075997125,blue,0.05,0.7,SNS
+mp_DraganJovanovic,"Jovanovic, Dragan (NS)",1,0.350432143,-0.317536646,violet,0.05,0.7,NS
+mp_DraganMarkovic,"Markovic, Dragan (JS)",1,0.198312884,-0.186046746,darkviolet,0.05,0.7,JS
+mp_DraganNikolic,"Nikolic, Dragan (SNS)",1,0.607207118,-0.473444653,blue,0.05,0.7,SNS
+mp_DraganPaunovic,"Paunovic, Dragan (SNS)",1,1.149789524,0.0536755,blue,0.05,0.7,SNS
+mp_DraganPolovina,"Polovina, Dragan (SNS)",1,0.225383759,-0.115224771,blue,0.05,0.7,SNS
+mp_DraganShormaz,"Sormaz, Dragan (SNS)",1,0.565070562,0.221977156,blue,0.05,0.7,SNS
+mp_DraganShutanovats,"Sutanovac, Dragan (DS)",1,-6.020081078,-2.606863776,gold,0.05,0.7,DS
+mp_DraganTodorovic,"Todorovic, Dragan (PS)",1,0.798842299,-0.452355086,pink,0.05,0.7,PS
+mp_DragoljubZindovic,"Zindovic, Dragoljub (SNS)",1,0.903785493,0.264684895,blue,0.05,0.7,SNS
+mp_DragomirKaric,"Karic, Dragomir (PSSBK)",1,-0.56804285,0.620225819,darkgrey,0.05,0.7,PSSBK
+mp_DrazhenJaric,"Jaric, Drazhen (SNS)",1,0.982565339,0.062166238,blue,0.05,0.7,SNS
+mp_DubravkaFilipovski,"Filipovski, Dubravka (NS)",1,0.735012767,0.314094655,violet,0.05,0.7,NS
+mp_DushanBajatovic,"Bajatovic, Dusan (SPS)",1,0.210954212,-0.173481101,red,0.05,0.7,SPS
+mp_DushanJankovic,"Jankovic, Dusan (SNS)",1,0.545527875,-0.417074173,blue,0.05,0.7,SNS
+mp_DushanProfDrMilisavljevic,"Milisavljevic, Dusan (DS)",1,-2.11253603,1.87779567,gold,0.05,0.7,DS
+mp_DushanStupar,"Stupar, Dusan (SNS)",1,1.2132886,-0.082552659,blue,0.05,0.7,SNS
+mp_DushitsaNikolic,"Nikolic, Dusica (SNS)",1,0.565144963,-0.514062777,blue,0.05,0.7,SNS
+mp_DushitsaStojkovic,"Stojkovic, Dusica (SNS)",1,1.129991569,0.016654522,blue,0.05,0.7,SNS
+mp_ElviraKovácsElviraKovach,"Kovács, Elvira (SVM)",1,1.169402728,-0.018365057,green,0.05,0.7,SVM
+mp_GoranBogdanovic,"Bogdanovic, Goran (SDS)",1,-2.604890011,2.104156964,cyan,0.05,0.7,SDS
+mp_GoranCiric,"Ciric, Goran (DS)",1,-3.814545667,3.215657183,gold,0.05,0.7,DS
+mp_GoranKovachevic,"Kovacevic, Goran (SNS)",1,1.066302752,0.085432182,blue,0.05,0.7,SNS
+mp_GoranMladenovic,"Mladenovic, Goran (SNS)",1,0.116311636,-0.100249961,blue,0.05,0.7,SNS
+mp_GoranVukadinovic,"Vukadinovic, Goran (SNS)",1,1.183241578,-0.077872431,blue,0.05,0.7,SNS
+mp_GordanaDrZoric,"Zoric, Gordana (SNS)",1,1.050070741,0.070506199,blue,0.05,0.7,SNS
+mp_GordanaChomic,"Comic, Gordana (DS)",1,-8.813326315,-1.367528432,gold,0.05,0.7,DS
+mp_GordanaTopic,"Topic, Gordana (SPS)",1,0.469409129,-0.338366931,red,0.05,0.7,SPS
+mp_GrozdanaBanats,"Banac, Grozdana (PUPS)",1,0.039407297,0.097367924,darkred,0.05,0.7,PUPS
+mp_IgorMrBechic,"Becic, Igor (Non-affiliated)",1,1.218086027,-0.027710628,grey,0.05,0.7,Non-affiliated
+mp_IrenaAleksic,"Aleksic, Irena (SNS)",1,1.236306099,-0.054740852,blue,0.05,0.7,SNS
+mp_IvanaDinic,"Dinic, Ivana (SPS)",1,1.249932473,-0.068647164,red,0.05,0.7,SPS
+mp_IvanaStojiljkovic,"Stojiljkoviæ, Ivana (SNS)",1,1.22976796,-0.076501878,blue,0.05,0.7,SNS
+mp_IvanDrBauer,"Bauer, Ivan (SDPS)",1,0.794399842,-0.371634132,orange,0.05,0.7,SDPS
+mp_IvanKaric,"Karic, Ivan (ZS)",1,-2.828779202,2.90392019,darkgrey,0.05,0.7,ZS
+mp_IvitsaJevtic,"Jevtic, Ivica (SNS)",1,1.007626077,-0.110901103,blue,0.05,0.7,SNS
+mp_JankoDrVeselinovic,"Veselinovic, Janko (SDS)",1,-6.593430486,-1.630006692,cyan,0.05,0.7,SDS
+mp_JasminaObradovic,"Obradovic, Jasmina (SNS)",1,0.881646801,0.279595385,blue,0.05,0.7,SNS
+mp_JelenaMijatovic,"Mijatovic, Jelena (SNS)",1,1.168457326,0.017855575,blue,0.05,0.7,SNS
+mp_JelisavetaPribojats,"Pribojac, Jelisaveta (SNS)",1,1.20514225,0.039113394,blue,0.05,0.7,SNS
+mp_JelisavetaVeljkovic,"Veljkovic, Jelisaveta (PUPS)",1,0.717558778,0.381494314,darkred,0.05,0.7,PUPS
+mp_JezdimirDrVuchetic,"Vucetic, Jezdimir (SNS)",1,1.237887862,-0.091245322,blue,0.05,0.7,SNS
+mp_JovanaJovanovic,"Jovanovic, Jovana (DS)",1,-2.784353255,1.497869262,gold,0.05,0.7,DS
+mp_JovanMarkovic,"Markovic, Jovan (DS)",1,-6.184357073,-3.272571104,gold,0.05,0.7,DS
+mp_JovitsaJevtic,"Jevtic, Jovica (SNS)",1,0.953943788,0.186993435,blue,0.05,0.7,SNS
+mp_KatarinaRakic,"Rakic, Katarina (SNS)",1,1.177772034,-0.027212385,blue,0.05,0.7,SNS
+mp_KatarinaShushnjar,"Susnjar, Katarina (SNS)",1,1.064733277,0.016899457,blue,0.05,0.7,SNS
+mp_KonstantinArsenovic,"Arsenovic, Konstantin (PUPS)",1,0.940614878,-0.051079512,darkred,0.05,0.7,PUPS
+mp_KrstimirPantic,"Pantic, Krstimir (SNS)",1,0.533834982,-0.247570721,blue,0.05,0.7,SNS
+mp_LászlóVargaLasloVarga,"Varga, László (SVM)",1,-0.109658988,-0.369603714,green,0.05,0.7,SVM
+mp_LjibushkaLakatosh,"Lakatos, Ljibuska (SNS)",1,1.14350509,-0.010002282,blue,0.05,0.7,SNS
+mp_LjiljanaDrBeronja,"Beronja, Ljiljana (SNS)",1,1.135597449,0.017764813,blue,0.05,0.7,SNS
+mp_LjiljanaKosoric,"Kosoric, Ljiljana (SPO)",1,-0.104313397,0.935860048,darkkhakki,0.05,0.7,SPO
+mp_LjiljanaMalushic,"Malusic, Ljiljana (SNS)",1,1.22086958,-0.041052112,blue,0.05,0.7,SNS
+mp_LjiljanaNestorovic,"Nestorovic, Ljiljana (SDPS)",1,0.822097427,-0.146762147,orange,0.05,0.7,SDPS
+mp_LjubishaProfDrStojmirovic,"Stojmirovic, Ljubisa (Non-affiliated)",1,0.005105268,-0.331079424,grey,0.05,0.7,Non-affiliated
+mp_LjubitsaMrdakovicTodorovic,"Mrdakovic Todorovic, Ljubica (SNS)",1,1.216507027,-0.022507856,blue,0.05,0.7,SNS
+mp_MajaGojkovic,"Gojkovic, Maja (Non-affiliated)",1,0.998440243,0.239244466,grey,0.05,0.7,Non-affiliated
+mp_MarijaJevgjic,"Jevdjiæ, Marija (JS)",1,1.141574851,-0.069033675,darkviolet,0.05,0.7,JS
+mp_MarijanRistichevic,"Risticevic, Marijan (Non-affiliated)",1,0.116999614,0.276746862,grey,0.05,0.7,Non-affiliated
+mp_MarijaObradovic,"Obradovic, Marija (SNS)",1,0.704303375,0.500885145,blue,0.05,0.7,SNS
+mp_MarijaStevanovic,"Stevanovic, Marija (SNS)",1,0.492561344,-0.445813429,blue,0.05,0.7,SNS
+mp_MarjanaMarash,"Maras, Marjana (SPS)",1,1.219183111,-0.060798022,red,0.05,0.7,SPS
+mp_MarkoDjurishic,"Djurisic, Marko (SDS)",1,-8.3260339,-1.426720699,cyan,0.05,0.7,SDS
+mp_MarkoProfDrAtlagic,"Atlagic, Marko (SNS)",1,1.027541235,0.079270118,blue,0.05,0.7,SNS
+mp_MehoOmerovic,"Omerovic, Meho (SDPS)",1,0.358770357,-0.233740921,orange,0.05,0.7,SDPS
+mp_MilanDjuritsa,"Djurica, Milan (SNS)",1,0.445155496,0.117466581,blue,0.05,0.7,SNS
+mp_MilanDrLatkovic,"Latkovic, Milan (SPS)",1,0.690952866,-0.209494127,red,0.05,0.7,SPS
+mp_MilankaJevtovicVukojichic,"Jevtovic Vukojicic, Milanka (SNS)",1,1.257542327,-0.075997125,blue,0.05,0.7,SNS
+mp_MilanKorac,"Korac, Milan (PUPS)",1,0.150857552,0.814446835,darkred,0.05,0.7,PUPS
+mp_MilanKovachevic,"Kovacevic, Milan (SNS)",1,0.413304608,0.187476888,blue,0.05,0.7,SNS
+mp_MilanKrkobabic,"Krkobabic, Milan (PUPS)",1,0.768913308,0.294040662,darkred,0.05,0.7,PUPS
+mp_MilanNovakovic,"Novakovic, Milan (SNS)",1,1.257542327,-0.075997125,blue,0.05,0.7,SNS
+mp_MilanPetric,"Petric, Milan (SNP)",1,-2.790765213,1.878821352,darkgrey,0.05,0.7,SNP
+mp_MilanProfDrKnezhevic,"Knezevic, Milan (SNS)",1,0.997821059,0.174928827,blue,0.05,0.7,SNS
+mp_MilanStevanovic,"Stevanovic, Milan (SNS)",1,0.845871917,0.226754208,blue,0.05,0.7,SNS
+mp_MilenaBicanin,"Bicanin, Milena (SDPS)",1,1.025084362,-0.227740947,orange,0.05,0.7,SDPS
+mp_MilenaCorilic,"Corilic, Milena (PUPS)",1,0.292732572,-0.421517215,darkred,0.05,0.7,PUPS
+mp_MilenaTurk,"Turk, Milena (SNS)",1,1.237619432,-0.072662724,blue,0.05,0.7,SNS
+mp_MiletaPoskuritsa,"Poskurica, Mileta (SNS)",1,0.211288388,0.017264104,blue,0.05,0.7,SNS
+mp_MileticMihajlovic,"Mihajlovic, Miletic (SPS)",1,0.839544308,0.281041446,red,0.05,0.7,SPS
+mp_MilijaMiletic,"Miletic, Milija (USS)",1,1.247169242,-0.067375351,darkgrey,0.05,0.7,USS
+mp_MilinkoZhivkovic,"Zivkovic, Milinko (SNS)",1,0.691315243,-0.009361136,blue,0.05,0.7,SNS
+mp_MilisavPetronijevic,"Petronijevic, Milisav (SPS)",1,0.977701618,-0.482801934,red,0.05,0.7,SPS
+mp_MiljanaNikolic,"Nikolic, Miljana (SNS)",1,0.22945691,-0.187440457,blue,0.05,0.7,SNS
+mp_MiljanaZindovic,"Zindovic, Miljana (SPS)",1,0.739238802,0.320560231,red,0.05,0.7,SPS
+mp_MiloradDrMijatovic,"Mijatovic, Milorad (SDPS)",1,0.835697472,-0.481719283,orange,0.05,0.7,SDPS
+mp_MiloradStoshic,"Stosic, Milorad (PUPS)",1,0.535655053,0.137597811,darkred,0.05,0.7,PUPS
+mp_MiloradTsvetanovic,"Tsvetanovic, Milorad (SNS)",1,0.840979455,-0.042011153,blue,0.05,0.7,SNS
+mp_MilosavMilojevic,"Milojevic, Milosav (SNS)",1,1.051297714,0.070883162,blue,0.05,0.7,SNS
+mp_MiloshToshanic,"Tosanic, Milos (SNS)",1,1.257542327,-0.075997125,blue,0.05,0.7,SNS
+mp_MilovanDretsun,"Drecun, Milovan (SNS)",1,1.17512224,-0.005500875,blue,0.05,0.7,SNS
+mp_MilutinMrkonjic,"Mrkon?ic, Milutin (SPS)",1,0.190994949,-0.191711326,red,0.05,0.7,SPS
+mp_MiodragLinta,"Linta, Miodrag (Non-affiliated)",1,1.027666122,0.111915549,grey,0.05,0.7,Non-affiliated
+mp_MiodragNikolic,"Nikolic, Miodrag (Non-affiliated)",1,-0.055660256,0.90331526,grey,0.05,0.7,Non-affiliated
+mp_MiraPetrovic,"Petrovic, Mira (PUPS)",1,0.701348717,0.403506368,darkred,0.05,0.7,PUPS
+mp_MirjanaAndric,"Andric, Mirjana (SNS)",1,0.970235531,0.218050592,blue,0.05,0.7,SNS
+mp_MirjanaDjokovic,"Djokovic, Mirjana (SNS)",1,1.220539006,-0.048396829,blue,0.05,0.7,SNS
+mp_MirjanaDragash,"Dragas, Mirjana (SPS)",1,1.146674717,0.01378321,red,0.05,0.7,SPS
+mp_MirjanaMarjanovic,"Marjanovic, Mirjana (SNS)",1,1.244539218,-0.057977941,blue,0.05,0.7,SNS
+mp_MirkoChikiriz,"Cikiriz, Mirko (SPO)",1,0.617819602,0.164931106,darkkhakki,0.05,0.7,SPO
+mp_MirkoKrlic,"Krlic, Mirko (SNS)",1,0.790915097,0.251844112,blue,0.05,0.7,SNS
+mp_MiroljubStankovic,"Stankovic, Miroljub (PUPS)",1,0.140801031,-0.069128444,darkred,0.05,0.7,PUPS
+mp_MiroslavMarkicevic,"Markicevic, Miroslav (NS)",1,-0.248196199,0.357969142,violet,0.05,0.7,NS
+mp_MladenGrujic,"Grujic, Mladen (NS)",1,0.886245828,0.187017419,violet,0.05,0.7,NS
+mp_MladenLukic,"Lukic, Mladen (SNS)",1,1.094049278,0.036218377,blue,0.05,0.7,SNS
+mp_MomirStojanovic,"Stojanovic, Momir (SNS)",1,0.040241113,-0.990218844,blue,0.05,0.7,SNS
+mp_MomoCholakovic,"Colakovic, Momo (PUPS)",1,0.845871862,-0.102205604,darkred,0.05,0.7,PUPS
+mp_MuamerDrBachevats,"Bacevac, Muamer (SDPS)",1,-0.387724411,-0.882139041,orange,0.05,0.7,SDPS
+mp_MujoMukovic,"Mukovic, Mujo (BNS)",1,0.984595877,-0.12761002,darkgrey,0.05,0.7,BNS
+mp_NadaLazic,"Lazic, Nada (LSV)",1,-9.792220405,0.681847432,khakki,0.05,0.7,LSV
+mp_NaditsaNikolicTanasijevic,"Nikolic Tanasijevic, Nadica (SNS)",1,1.070180759,0.10459305,blue,0.05,0.7,SNS
+mp_NebojshaBeric,"Beric, Nebojsa (SNS)",1,1.25141917,-0.07690418,blue,0.05,0.7,SNS
+mp_NebojshaProfDrPetrovic,"Petrovic, Nebojsa (PS)",1,0.620452729,-0.54059628,pink,0.05,0.7,PS
+mp_NebojshaTatomir,"Tatomir, Nebojsa (SNS)",1,0.619675136,-0.464304714,blue,0.05,0.7,SNS
+mp_NegjoJovanovic,"Jovanovic, Nedjo (SPS)",1,1.007128234,0.101150106,red,0.05,0.7,SPS
+mp_NenadMilosavljevic,"Milosavljevic, Nenad (SPS)",1,1.010359808,0.102464512,red,0.05,0.7,SPS
+mp_NenadMitrovic,"Mitrovic, Nenad (SNS)",1,0.615979523,-0.484691759,blue,0.05,0.7,SNS
+mp_NenadNikolic,"Nikolic, Nenad (SNS)",1,0.841213605,0.085663176,blue,0.05,0.7,SNS
+mp_NevenaStojanovic,"Stojanovic, Nevena (JS)",1,1.257542327,-0.075997125,darkviolet,0.05,0.7,JS
+mp_NevenkaMiloshevic,"Milosevic, Nevenka (SNS)",1,1.015667933,-0.315082428,blue,0.05,0.7,SNS
+mp_NikolaJolovic,"Jolovic, Nikola (SNS)",1,0.117078209,-0.05566326,blue,0.05,0.7,SNS
+mp_NinoslavDrGiric,"Giric, Ninoslav (SNS)",1,1.257542327,-0.075997125,blue,0.05,0.7,SNS
+mp_NinoslavDrStojadinovic,"Stojadinovic, Ninoslav (SDS)",1,-6.386807322,0.321776168,cyan,0.05,0.7,SDS
+mp_NovitsaTonchev,"Toncev, Novica (SPS)",1,-0.257525997,-0.139880114,red,0.05,0.7,SPS
+mp_ObradDrIsailovic,"Isailovic, Obrad (SNS)",1,-0.14024165,-0.531329375,blue,0.05,0.7,SNS
+mp_OlenaPapuga,"Papuga, Olena (LSV)",1,-4.882456086,5.123037177,khakki,0.05,0.7,LSV
+mp_OlgitsaBatic,"Batic, Olgica (DHSS)",1,-0.297257209,0.189567296,darkgrey,0.05,0.7,DHSS
+mp_OliveraPauljeskic,"Pauljeskic, Olivera (SNS)",1,1.035300244,0.143220362,blue,0.05,0.7,SNS
+mp_OliveraPeshic,"Pesic, Olivera (SNS)",1,1.179615361,-0.010551251,blue,0.05,0.7,SNS
+mp_PetarPetrovic,"Petrovic, Petar (JS)",1,1.008819257,-0.151561062,darkviolet,0.05,0.7,JS
+mp_PetarShkundric,"Shkundric, Petar (SPS)",1,0.64887324,0.388041599,red,0.05,0.7,SPS
+mp_PredragDrMijatovic,"Mijatovic, Predrag (SNS)",1,0.592873385,-0.320085907,blue,0.05,0.7,SNS
+mp_RadmiloKostic,"Kostic, Radmilo (SNS)",1,1.046079679,-0.321189137,blue,0.05,0.7,SNS
+mp_RadoslavDrJovic,"Jovic, Radoslav (SNS)",1,0.423430175,-0.300773288,blue,0.05,0.7,SNS
+mp_SabinaDazdarevic,"Dazdarevic, Sabina (SDA)",1,-3.870000848,3.467697594,darkgrey,0.05,0.7,SDA
+mp_SanjaNikolic,"Nikolic, Sanja (SNS)",1,1.192487063,-0.018374455,blue,0.05,0.7,SNS
+mp_SanjaTutsakovic,"Tutsakovic, Sanja (Non-affiliated)",1,0.509411925,0.49371486,grey,0.05,0.7,Non-affiliated
+mp_SashaMaksimovic,"Maksimovic, Sasa (SNS)",1,1.111662389,0.014640656,blue,0.05,0.7,SNS
+mp_SashaMirkovic,"Mirkovic, Sasa (Non-affiliated)",1,0.209589934,-0.039811187,grey,0.05,0.7,Non-affiliated
+mp_SinishaMaksimovic,"Maksimovic, Sinisa (SPS)",1,0.948829171,0.168577757,red,0.05,0.7,SPS
+mp_SlavitsaDjukicDejanovic,"Djukic Dejanovic, Slavica (SPS)",1,0.632124149,-0.539768734,red,0.05,0.7,SPS
+mp_SlobodanDrGvozdenovic,"Gvozdenovic, Slobodan (SNS)",1,1.161327851,0.017098034,blue,0.05,0.7,SNS
+mp_SlobodanHomen,"Homen, Slobodan (Non-affiliated)",1,-1.661158902,1.598854027,grey,0.05,0.7,Non-affiliated
+mp_SlobodanPeric,"Peric, Slobodan (SNS)",1,-2.978245456,-4.611588335,blue,0.05,0.7,SNS
+mp_SonjaVlahovic,"Vlahovic, Sonja (SNS)",1,1.257542327,-0.075997125,blue,0.05,0.7,SNS
+mp_SrgjanDragojevic,"Dragojevic, Srdjan (SPS)",1,0.771387468,0.219515327,red,0.05,0.7,SPS
+mp_SrgjanKruzhevic,"Kruzevic, Srdjan (JS)",1,0.616359531,0.09750776,darkviolet,0.05,0.7,JS
+mp_StefanaMiladinovic,"Miladinovic, Stefana (SPS)",1,0.442249599,-0.862244139,red,0.05,0.7,SPS
+mp_SuzanaSharats,"Sarac, Suzana (SNS)",1,0.953847072,0.153745029,blue,0.05,0.7,SNS
+mp_SuzanaSpasojevic,"Spasojevic, Suzana (SPS)",1,0.984950907,0.119571143,red,0.05,0.7,SPS
+mp_SvetislavVukmiritsa,"Vukmirica, Svetislav (SNS)",1,1.194514899,-0.079372477,blue,0.05,0.7,SNS
+mp_TanjaTomashevicDamnjanovic,"Tomasevic Damnjanovic, Tanja (SNS)",1,1.247481241,-0.068400526,blue,0.05,0.7,SNS
+mp_VanjaVukic,"Vukic, Vanja (SPS)",1,0.804871144,-0.300338697,red,0.05,0.7,SPS
+mp_VeliborStojkovic,"Stojkovic, Velibor (SNS)",1,0.359822499,-0.742232127,blue,0.05,0.7,SNS
+mp_VelimirStanojevic,"Stanojevic, Velimir (NS)",1,1.061453337,-0.00474356,violet,0.05,0.7,NS
+mp_VelinkaToshic,"Tosic, Velinka (SNS)",1,1.257293549,-0.075155383,blue,0.05,0.7,SNS
+mp_VeraPaunovic,"Paunovic, Vera (PUPS)",1,0.97027937,-0.03328749,darkred,0.05,0.7,PUPS
+mp_VeroljubArsic,"Arsic, Veroljub (Non-affiliated)",1,1.155787107,-0.0349615,grey,0.05,0.7,Non-affiliated
+mp_VeroljubMatic,"Matic, Veroljub (Non-affiliated)",1,0.464102333,-0.439191826,grey,0.05,0.7,Non-affiliated
+mp_VesnaDrRakonjats,"Rakonjac, Vesna (SNS)",1,1.088856938,0.029286672,blue,0.05,0.7,SNS
+mp_VesnaDrSimic,"Simiæ, Vesna (SNS)",1,1.234334202,-0.047594699,blue,0.05,0.7,SNS
+mp_VesnaMarjanovic,"Marjanovic, Vesna (DS)",1,-2.175246767,1.955903164,gold,0.05,0.7,DS
+mp_VesnaMarkovic,"Markovic, Vesna (SNS)",1,1.183695914,-0.005876194,blue,0.05,0.7,SNS
+mp_VesnaMartinovic,"Martinoviæ, Vesna (DS)",1,-5.701715392,-3.058503956,gold,0.05,0.7,DS
+mp_VesnaProfDrBesarovic,"Besarovic, Vesna (SDPS)",1,0.540059141,0.236499404,orange,0.05,0.7,SDPS
+mp_VioletaLutovats,"Lutovac, Violeta (SNS)",1,1.255571174,-0.073941232,blue,0.05,0.7,SNS
+mp_VladanMiloshevic,"Milosevic, Vladan (SNS)",1,1.008597559,0.013277102,blue,0.05,0.7,SNS
+mp_VladetaKostic,"Kostic, Vladeta (SNS)",1,0.526815961,-0.396404311,blue,0.05,0.7,SNS
+mp_VladimirDjukanovic,"Djukanovic, Vladimir (SNS)",1,0.943972907,0.128875434,blue,0.05,0.7,SNS
+mp_VladimirDrOrlic,"Orlic, Vladimir (SNS)",1,1.256329047,-0.074520646,blue,0.05,0.7,SNS
+mp_VladimirPetkovic,"Petkovic, Vladimir (SNS)",1,1.255677712,-0.075891709,blue,0.05,0.7,SNS
+mp_VladimirProfDrMarinkovic,"Marinkovic, Vladimir (SDPS)",1,0.908327016,0.079548149,orange,0.05,0.7,SDPS
+mp_VladitsaDimitrov,"Dimitrov, Vladitsa (SNS)",1,1.000705934,-0.215706187,blue,0.05,0.7,SNS
+mp_VladoBabic,"Babic, Vlado (SNS)",1,0.899567698,0.194817537,blue,0.05,0.7,SNS
+mp_VojislavVujic,"Vujic, Vojislav (JS)",1,0.504020058,0.068456328,darkviolet,0.05,0.7,JS
+mp_VuchetaToshkovic,"Toskovic, Vuceta (SNS)",1,1.257542327,-0.075997125,blue,0.05,0.7,SNS
+mp_ZharkoBogatinovic,"Bogatinovic, Zarko (SNS)",1,1.256193653,-0.075214288,blue,0.05,0.7,SNS
+mp_ZharkoMicin,"Micin, Zarko (SNS)",1,1.236845898,-0.067068734,blue,0.05,0.7,SNS
+mp_ZharkoProfDrObradovic,"Obradovic, Zarko (SPS)",1,1.10419597,-0.018029017,red,0.05,0.7,SPS
+mp_ZheljkoSushets,"Susec, Zeljko (SNS)",1,0.901697738,0.258931341,blue,0.05,0.7,SNS
+mp_ZhikaGojkovic,"Gojkovic, Zika (SPO)",1,0.393995491,-0.16722813,darkkhakki,0.05,0.7,SPO
+mp_ZhivanDjurishic,"Djurisic, Zivan (SNS)",1,1.257542327,-0.075997125,blue,0.05,0.7,SNS
+mp_ZlataDjeric,"Djeric, Zlata (NS)",1,-4.906693806,-4.533927533,violet,0.05,0.7,NS
+mp_ZoltánPékZoltanPek,"Pék, Zoltán (SVM)",1,1.046376272,0.016980195,green,0.05,0.7,SVM
+mp_ZoranAntic,"Antic, Zoran (Non-affiliated)",1,1.08748948,-0.002146229,grey,0.05,0.7,Non-affiliated
+mp_ZoranBabic,"Babic, Zoran (SNS)",1,1.127768382,-0.104463007,blue,0.05,0.7,SNS
+mp_ZoranBojanic,"Bojanic, Zoran (SNS)",1,1.260807728,-0.076328108,blue,0.05,0.7,SNS
+mp_ZoranJozic,"Jozic, Zoran (SNS)",1,0.913537268,-0.117749809,blue,0.05,0.7,SNS
+mp_ZoranMilekic,"Milekic, Zoran (SNS)",1,0.149569777,-0.453299604,blue,0.05,0.7,SNS
+mp_ZoranPralitsa,"Pralica, Zoran (SNS)",1,0.423420836,-0.367827007,blue,0.05,0.7,SNS
+mp_ZvonimirStevic,"Stevic, Zvonimir (SPS)",1,0.763377438,0.246776306,red,0.05,0.7,SPS
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

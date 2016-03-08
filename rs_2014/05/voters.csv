@@ -1,0 +1,89 @@
+"id","name","color","party","wpca:d1","wpca:d2","r","result","opacity"
+"mp_AdrianaAnastasov","Anastasov, Adriana (SNS)","blue","SNS",1,0.112363841678634,0.05,1,0.7
+"mp_AnaFilipovic","Filipovic, Ana (SNS)","blue","SNS",1,0.0554650065379865,0.05,1,0.7
+"mp_BiljanaHasanovicKorac","Hasanovic Korac, Biljana (Non-affiliated)","grey","Non-affiliated",0.848684210526316,0.695678417786536,0.05,1,0.7
+"mp_BiljanaIlicStoshic","Ilic Stosic, Biljana (SNS)","blue","SNS",0.990521327014218,0.140871519689534,0.05,1,0.7
+"mp_BiljanaPanticPilja","Pantic Pilja, Biljana (SNS)","blue","SNS",0.99438202247191,0.127372087602223,0.05,1,0.7
+"mp_BiljanaSavovic","Savovic, Biljana (SNS)","blue","SNS",1,0.115273092334814,0.05,1,0.7
+"mp_BranislavDrBlazhic","Blazic, Branislav (SNS)","blue","SNS",0.977011494252874,0.15127518913113,0.05,1,0.7
+"mp_BrankaBoshnjak","Bosnjak, Branka (SDPS)","orange","SDPS",1,0.103029764185195,0.05,1,0.7
+"mp_BrankaKaravidic","Karavidic, Branka (Non-affiliated)","grey","Non-affiliated",0.835294117647059,0.854111676098753,0.05,1,0.7
+"mp_BrankoProfDrDjurovic","Djurovic, Branko (SDPS)","orange","SDPS",0.987654320987654,0.133962280771671,0.05,1,0.7
+"mp_BrankoRuzhic","Ruzic, Branko (SPS)","red","SPS",0.914634146341463,0.334595601488471,0.05,1,0.7
+"mp_DraganaDrBarishic","Barisic, Dragana (SNS)","blue","SNS",1,0.111361980583042,0.05,1,0.7
+"mp_DraganMarkovic","Markovic, Dragan (JS)","darkviolet","JS",1,0.0252181065161811,0.05,1,0.7
+"mp_DraganNikolic","Nikolic, Dragan (SNS)","blue","SNS",1,0.0686501032816722,0.05,1,0.7
+"mp_DraganPaunovic","Paunovic, Dragan (SNS)","blue","SNS",0.989189189189189,0.148085682124742,0.05,1,0.7
+"mp_DraganPolovina","Polovina, Dragan (SNS)","blue","SNS",1,0.0585552504570117,0.05,1,0.7
+"mp_DraganShormaz","Sormaz, Dragan (SNS)","blue","SNS",0.952380952380952,0.203124579430386,0.05,1,0.7
+"mp_DraganShutanovats","Sutanovac, Dragan (DS)","gold","DS",0.628571428571429,1,0.05,1,0.7
+"mp_DraganTodorovic","Todorovic, Dragan (PS)","darkgrey","PS",0.980099502487562,0.184933059972206,0.05,1,0.7
+"mp_DragoljubProfDrMicunovic","Micunovic, Dragoljub","gold","DS",1,1.2123106632558e-08,0.05,1,0.7
+"mp_DragoljubZindovic","Zindovic, Dragoljub (SNS)","blue","SNS",0.979899497487437,0.165653845129324,0.05,1,0.7
+"mp_DragomirKaric","Karic, Dragomir (PSSBK)","darkgrey","PSSBK",0.854545454545454,0.172645326915239,0.05,1,0.7
+"mp_DubravkaFilipovski","Filipovski, Dubravka (NS)","violet","NS",0.974522292993631,0.180461509644165,0.05,1,0.7
+"mp_DushanStupar","Stupar, Dusan (SNS)","blue","SNS",0.995260663507109,0.128765810802968,0.05,1,0.7
+"mp_DushitsaNikolic","Nikolic, Dusica (SNS)","blue","SNS",0.977142857142857,0.137810323331335,0.05,1,0.7
+"mp_EnisImamovic","Imamovic, Enis","darkgrey","SDA",0.5625,0.285621324610178,0.05,1,0.7
+"mp_GoranBogdanovic","Bogdanovic, Goran (SDS)","cyan","SDS",0.871794871794872,0.424627299685906,0.05,1,0.7
+"mp_GoranCiric","Ciric, Goran (DS)","gold","DS",0.825581395348837,0.452116238380844,0.05,1,0.7
+"mp_GoranVukadinovic","Vukadinovic, Goran (SNS)","blue","SNS",0.995169082125604,0.127100091703502,0.05,1,0.7
+"mp_GordanaDrZoric","Zoric, Gordana (SNS)","blue","SNS",0.995260663507109,0.128555622140217,0.05,1,0.7
+"mp_GordanaChomic","Comic, Gordana (DS)","gold","DS",0.648648648648649,0.776273951072232,0.05,1,0.7
+"mp_GordanaTopic","Topic, Gordana (SPS)","red","SPS",1,0.0620107990299602,0.05,1,0.7
+"mp_GrozdanaBanats","Banac, Grozdana (PUPS)","darkred","PUPS",0.951219512195122,0.23913028072925,0.05,1,0.7
+"mp_IvanaDinic","Dinic, Ivana (SPS)","red","SPS",0.995073891625616,0.12554051430469,0.05,1,0.7
+"mp_IvanKaric","Karic, Ivan (ZS)","darkgrey","ZS",0.565217391304348,0.620074183902287,0.05,1,0.7
+"mp_KatarinaRakic","Rakic, Katarina (SNS)","blue","SNS",0.994594594594595,0.127205101735429,0.05,1,0.7
+"mp_KatarinaShushnjar","Susnjar, Katarina (SNS)","blue","SNS",0.990291262135922,0.136249795487507,0.05,1,0.7
+"mp_KrstimirPantic","Pantic, Krstimir (SNS)","blue","SNS",0.97887323943662,0.165483503356823,0.05,1,0.7
+"mp_LjibushkaLakatosh","Lakatos, Ljibuska (SNS)","blue","SNS",1,0.116374448969344,0.05,1,0.7
+"mp_LjiljanaKosoric","Kosoric, Ljiljana (SPO)","darkkhakki","SPO",0.900552486187845,0.369133759726541,0.05,1,0.7
+"mp_LjiljanaMalushic","Malusic, Ljiljana (SNS)","blue","SNS",1,0.114275908086091,0.05,1,0.7
+"mp_LjubitsaMrdakovicTodorovic","Mrdakovic Todorovic, Ljubica (SNS)","blue","SNS",0.995145631067961,0.140425899876381,0.05,1,0.7
+"mp_MarkoDjurishic","Djurisic, Marko (SDS)","cyan","SDS",0.845238095238095,0.913534851228881,0.05,1,0.7
+"mp_MarkoProfDrAtlagic","Atlagic, Marko (SNS)","blue","SNS",1,0.0958428596857021,0.05,1,0.7
+"mp_MilanDjuritsa","Djurica, Milan (SNS)","blue","SNS",0.974683544303797,0.205790018646692,0.05,1,0.7
+"mp_MilanDrLatkovic","Latkovic, Milan (SPS)","red","SPS",0.960227272727273,0.272591513492537,0.05,1,0.7
+"mp_MilanKorac","Korac, Milan (PUPS)","darkred","PUPS",0.954545454545455,0.25489546059184,0.05,1,0.7
+"mp_MilanKrkobabic","Krkobabic, Milan (PUPS)","darkred","PUPS",0.985714285714286,0.103202362111533,0.05,1,0.7
+"mp_MilanNovakovic","Novakovic, Milan (SNS)","blue","SNS",1,0.115273092334813,0.05,1,0.7
+"mp_MilinkoZhivkovic","Zivkovic, Milinko (SNS)","blue","SNS",0.972222222222222,0.184654232298021,0.05,1,0.7
+"mp_MiljanaNikolic","Nikolic, Miljana (SNS)","blue","SNS",1,0.0568473398544871,0.05,1,0.7
+"mp_MiljanaZindovic","Zindovic, Miljana (SPS)","red","SPS",1,0.150323869707033,0.05,1,0.7
+"mp_MiloradStoshic","Stosic, Milorad (PUPS)","darkred","PUPS",0.9453125,0.208390862184447,0.05,1,0.7
+"mp_MiloshToshanic","Tosanic, Milos (SNS)","blue","SNS",1,0.115273092334814,0.05,1,0.7
+"mp_MilutinMrkonjic","Mrkon?ic, Milutin (SPS)","red","SPS",0.934579439252336,0.200849386719245,0.05,1,0.7
+"mp_MiodragLinta","Linta, Miodrag (Non-affiliated)","grey","Non-affiliated",0.990430622009569,0.164079481265784,0.05,1,0.7
+"mp_MiodragNikolic","Nikolic, Miodrag (Non-affiliated)","grey","Non-affiliated",0.864583333333333,0.319849736093415,0.05,1,0.7
+"mp_MirkoChikiriz","Cikiriz, Mirko (SPO)","darkkhakki","SPO",0.955882352941177,0.225885919761886,0.05,1,0.7
+"mp_MirkoKrlic","Krlic, Mirko (SNS)","blue","SNS",0.967320261437909,0.176054311205355,0.05,1,0.7
+"mp_MiroljubStankovic","Stankovic, Miroljub (PUPS)","darkred","PUPS",0.989473684210526,0.0782847824002333,0.05,1,0.7
+"mp_MomoCholakovic","Colakovic, Momo (PUPS)","darkred","PUPS",0.990196078431373,0.107858942110157,0.05,1,0.7
+"mp_NadaLazic","Lazic, Nada (LSV)","khakki","LSV",0.602941176470588,0.87762100632465,0.05,1,0.7
+"mp_NatashaVuchkovic","Vuchkovic, Natasha","gold","DS",0.211538461538462,0.929391015508512,0.05,1,0.7
+"mp_NinoslavDrGiric","Giric, Ninoslav (SNS)","blue","SNS",1,0.115273092334814,0.05,1,0.7
+"mp_ObradDrIsailovic","Isailovic, Obrad (SNS)","blue","SNS",0.952631578947368,0.278776051608064,0.05,1,0.7
+"mp_OlgitsaBatic","Batic, Olgica (DHSS)","darkgrey","DHSS",0.907407407407407,0.162419347372346,0.05,1,0.7
+"mp_RadmiloKostic","Kostic, Radmilo (SNS)","blue","SNS",1,0.127654842830927,0.05,1,0.7
+"mp_RizaHalimi","Halimi, Riza","darkgrey","PPD",0.275862068965517,0.66276483196605,0.05,1,0.7
+"mp_SanjaNikolic","Nikolic, Sanja (SNS)","blue","SNS",1,0.109076896639947,0.05,1,0.7
+"mp_SanjaTutsakovic","Tutsakovic, Sanja (Non-affiliated)","grey","Non-affiliated",1,0.107511452610812,0.05,1,0.7
+"mp_SashaMaksimovic","Maksimovic, Sasa (SNS)","blue","SNS",1,0.11162943083798,0.05,1,0.7
+"mp_SashaMirkovic","Mirkovic, Sasa (Non-affiliated)","grey","Non-affiliated",1,0.0302805576692488,0.05,1,0.7
+"mp_SinishaMaksimovic","Maksimovic, Sinisa (SPS)","red","SPS",0.988372093023256,0.158707991155557,0.05,1,0.7
+"mp_SonjaVlahovic","Vlahovic, Sonja (SNS)","blue","SNS",1,0.115273092334815,0.05,1,0.7
+"mp_SuzanaSharats","Sarac, Suzana (SNS)","blue","SNS",1,0.0803427768564237,0.05,1,0.7
+"mp_VanjaVukic","Vukic, Vanja (SPS)","red","SPS",0.979020979020979,0.158392454884891,0.05,1,0.7
+"mp_VladimirDjukanovic","Djukanovic, Vladimir (SNS)","blue","SNS",0.975247524752475,0.199890736844858,0.05,1,0.7
+"mp_VladimirDrOrlic","Orlic, Vladimir (SNS)","blue","SNS",1,0.113672370589557,0.05,1,0.7
+"mp_VladimirProfDrMarinkovic","Marinkovic, Vladimir (SDPS)","orange","SDPS",0.972602739726027,0.156014671804375,0.05,1,0.7
+"mp_VladitsaDimitrov","Dimitrov, Vladitsa (SNS)","blue","SNS",0.990196078431373,0.146174353633694,0.05,1,0.7
+"mp_VladoBabic","Babic, Vlado (SNS)","blue","SNS",0.994186046511628,0.13003849653028,0.05,1,0.7
+"mp_ZharkoBogatinovic","Bogatinovic, Zarko (SNS)","blue","SNS",1,0.116480073991779,0.05,1,0.7
+"mp_ZharkoMicin","Micin, Zarko (SNS)","blue","SNS",1,0.114221424630578,0.05,1,0.7
+"mp_ZharkoProfDrObradovic","Obradovic, Zarko (SPS)","red","SPS",1,0.0996120294256189,0.05,1,0.7
+"mp_ZhivanDjurishic","Djurisic, Zivan (SNS)","blue","SNS",1,0.115273092334813,0.05,1,0.7
+"mp_ZoranAntic","Antic, Zoran (Non-affiliated)","grey","Non-affiliated",0.994082840236686,0.121998451964586,0.05,1,0.7
+"mp_ZoranBabic","Babic, Zoran (SNS)","blue","SNS",0.985781990521327,0.154861851945288,0.05,1,0.7
+"mp_ZoranPralitsa","Pralica, Zoran (SNS)","blue","SNS",0.98936170212766,0.0845844476171582,0.05,1,0.7
